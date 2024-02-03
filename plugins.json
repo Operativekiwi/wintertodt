@@ -8,7 +8,7 @@
     "date": "2023-12-16",
     "sha512sum": "a348febd625c8b7b78ff54672732fc93acf4a4bed9d6e1dcc4b4382143d263e6d5d69dd37bff745cbfbbad5cfe59df4fc949a9997fd433548177c10b219595d6",
     "version": "0.0.5",
-    "url": "https://github.com/Operativekiwi/wt-plugin/blob/main/m-wintertodt-0.0.5.jar?raw=true",
+    "url": "https://github.com/Operativekiwi/wintertodt/blob/main/m-wintertodt-0.0.5.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }]
